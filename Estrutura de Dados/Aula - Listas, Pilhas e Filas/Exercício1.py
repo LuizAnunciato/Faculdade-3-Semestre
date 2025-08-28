@@ -1,4 +1,4 @@
-#Exercício 1
+#Exercício 1 - Último a Entrar, Primeiro a Sair
 
 #Lista Vazia
 pilha = []
